@@ -1,6 +1,5 @@
 
 package xmlparser;
-
 import java.util.ArrayList;
 import org.w3c.dom.Node;
 
